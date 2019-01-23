@@ -14,3 +14,5 @@ Reasons:
 ## Other thoughts
 
 This is great.
+
+<h1> What happens if i try to use a h1 tag within this md file?</h1>
