@@ -8,4 +8,4 @@ github_username:  ashyoomee
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
