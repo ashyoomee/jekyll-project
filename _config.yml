@@ -1,0 +1,11 @@
+# basic options, this is just a comment.
+title: Andy-Mayer
+author: Ashley Fulcher
+email: your-email@domain.com
+description: Yoomee 
+twitter_username: Yoomee
+github_username:  ashyoomee
+
+# Build settings
+markdown: kramdown
+theme: dinky
