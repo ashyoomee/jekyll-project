@@ -1,5 +1,5 @@
 ---
-layou: page
+layout: page
 title: Skills
 ---
 
